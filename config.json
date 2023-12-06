@@ -17,6 +17,22 @@
       ]
     },
     {
+      "contract": "testdextknaa",
+      "decimal": 4,
+      "symbol": "FAA",
+      "networks": [
+        "GF"
+      ]
+    },
+    {
+      "contract": "testdextknbb",
+      "decimal": 4,
+      "symbol": "FBB",
+      "networks": [
+        "GF"
+      ]
+    },
+    {
       "contract": "testswapsfla",
       "decimal": 4,
       "symbol": "FLA",
