@@ -1,0 +1,58 @@
+{
+  "tokens": [
+    {
+      "contract": "eosio.token",
+      "decimal": 4,
+      "symbol": "GFT",
+      "networks": [
+        "GF"
+      ]
+    },
+    {
+      "contract": "gf.cdt",
+      "decimal": 4,
+      "symbol": "CDT",
+      "networks": [
+        "GF"
+      ]
+    },
+    {
+      "contract": "testswapsfla",
+      "decimal": 4,
+      "symbol": "FLA",
+      "networks": [
+        "GF", "BEP20"
+      ]
+    }
+  ],
+  "contracts": [
+    {
+      "name": "GLOBALFORCE HOLDER",
+      "contract": [
+        "gf.hold"
+      ],
+      "actions": [
+        {
+          "stake": {
+            "from": "user",
+            "quantity": "asset",
+            "memo": "string"
+          }
+        },
+        {
+          "unstake": {
+            "from": "user",
+            "quantity": "asset"
+          }
+        },
+        {
+          "claim": {
+            "account": "user"
+          }
+        }
+      ],
+      "link": "https://dev.globalforce.io"
+    }
+  ],
+  "version": "1.0.02"
+}
