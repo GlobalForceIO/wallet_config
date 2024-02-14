@@ -39,6 +39,14 @@
       "networks": [
         "GF", "BEP20"
       ]
+    },
+    {
+      "contract": "testtokenaad",
+      "decimal": 4,
+      "symbol": "AAD",
+      "networks": [
+        "GF"
+      ]
     }
   ],
   "contracts": [
