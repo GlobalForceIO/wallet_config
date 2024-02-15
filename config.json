@@ -47,6 +47,14 @@
       "networks": [
         "GF"
       ]
+    },
+    {
+      "contract": "testtokenrat",
+      "decimal": 4,
+      "symbol": "RAT",
+      "networks": [
+        "GF"
+      ]
     }
   ],
   "contracts": [
