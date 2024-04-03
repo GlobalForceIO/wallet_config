@@ -9,14 +9,6 @@
       ]
     },
     {
-      "contract": "gf.cdt",
-      "decimal": 4,
-      "symbol": "CDT",
-      "networks": [
-        "GF"
-      ]
-    },
-    {
       "contract": "testdextknaa",
       "decimal": 4,
       "symbol": "FAA",
