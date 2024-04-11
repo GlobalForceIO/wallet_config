@@ -9,11 +9,44 @@
       ]
     },
     {
+      "contract": "bridgenattrx",
+      "decimal": 4,
+      "symbol": "TRX",
+      "networks": [
+        "GF","TRX"
+      ]
+    },
+    {
+      "contract": "bridgetkntst",
+      "decimal": 4,
+      "symbol": "TST",
+      "networks": [
+        "GF","TRC20"
+      ]
+    },
+    {
+      "contract": "bridgenatbnb",
+      "decimal": 4,
+      "symbol": "BNB",
+      "networks": [
+        "GF","BEP20"
+      ]
+    },
+    {
+      "contract": "bridgenatpol",
+      "decimal": 4,
+      "symbol": "MATIC",
+      "networks": [
+        "GF","MATIC"
+      ]
+    },
+    
+    {
       "contract": "testdextknaa",
       "decimal": 4,
-      "symbol": "FAA",
+      "symbol": "TST",
       "networks": [
-        "GF"
+        "GF","TRC20"
       ]
     },
     {
@@ -78,5 +111,5 @@
       "link": "https://dev.globalforce.io"
     }
   ],
-  "version": "1.0.02"
+  "version": "1.0.03"
 }
