@@ -44,9 +44,9 @@
     {
       "contract": "testdextknaa",
       "decimal": 4,
-      "symbol": "TST",
+      "symbol": "FAA",
       "networks": [
-        "GF","TRC20"
+        "GF"
       ]
     },
     {
