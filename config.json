@@ -40,7 +40,6 @@
         "GF","MATIC"
       ]
     },
-    
     {
       "contract": "testdextknaa",
       "decimal": 4,
@@ -53,30 +52,6 @@
       "contract": "testdextknbb",
       "decimal": 4,
       "symbol": "FBB",
-      "networks": [
-        "GF"
-      ]
-    },
-    {
-      "contract": "testswapsfla",
-      "decimal": 4,
-      "symbol": "FLA",
-      "networks": [
-        "GF", "BEP20"
-      ]
-    },
-    {
-      "contract": "testtokenaad",
-      "decimal": 4,
-      "symbol": "AAD",
-      "networks": [
-        "GF"
-      ]
-    },
-    {
-      "contract": "testtokenrat",
-      "decimal": 4,
-      "symbol": "RAT",
       "networks": [
         "GF"
       ]
