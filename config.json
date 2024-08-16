@@ -9,11 +9,19 @@
       ]
     },
     {
-      "contract": "gf.cdt",
-      "decimal": 4,
-      "symbol": "CDT",
+      "contract": "gf.btc",
+      "decimal": 6,
+      "symbol": "BTC",
       "networks": [
-        "GF"
+        "GF","BTC"
+      ]
+    },
+    {
+      "contract": "gf.trx",
+      "decimal": 6,
+      "symbol": "TRX",
+      "networks": [
+        "GF","TRX"
       ]
     }
   ],
@@ -46,5 +54,5 @@
       "link": "https://globalforce.io"
     }
   ],
-  "version": "1.0.02"
+  "version": "1.1.01"
 }
