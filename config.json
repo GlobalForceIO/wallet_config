@@ -13,7 +13,7 @@
       "decimal": 4,
       "symbol": "TRX",
       "networks": [
-        "GF","TRX"
+        "GF","TRON"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "decimal": 4,
       "symbol": "TST",
       "networks": [
-        "GF","TRC20"
+        "GF","TRON"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "decimal": 4,
       "symbol": "BNB",
       "networks": [
-        "GF","BEP20"
+        "GF","BINANCE"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "decimal": 4,
       "symbol": "MATIC",
       "networks": [
-        "GF","MATIC"
+        "GF","POLYGON"
       ]
     },
     {
@@ -86,5 +86,5 @@
       "link": "https://dev.globalforce.io"
     }
   ],
-  "version": "1.0.03"
+  "version": "1.0.04"
 }
