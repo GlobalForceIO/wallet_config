@@ -13,7 +13,7 @@
       "decimal": 6,
       "symbol": "BTC",
       "networks": [
-        "GF","BITCOIN"
+        "GF","BTC"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "decimal": 6,
       "symbol": "TRX",
       "networks": [
-        "GF","TRON"
+        "GF","TRX"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "decimal": 4,
       "symbol": "MATIC",
       "networks": [
-        "GF","POLYGON"
+        "GF","MATIC"
       ]
     }
   ],
