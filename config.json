@@ -23,6 +23,14 @@
       "networks": [
         "GF","TRON"
       ]
+    },
+    {
+      "contract": "gf.matic",
+      "decimal": 4,
+      "symbol": "MATIC",
+      "networks": [
+        "GF","POLYGON"
+      ]
     }
   ],
   "contracts": [
