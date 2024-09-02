@@ -13,7 +13,7 @@
       "decimal": 4,
       "symbol": "TRX",
       "networks": [
-        "GF","TRON"
+        "GF","TRX"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "decimal": 4,
       "symbol": "TST",
       "networks": [
-        "GF","TRON"
+        "GF","TRX"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "decimal": 4,
       "symbol": "BNB",
       "networks": [
-        "GF","BINANCE"
+        "GF","BEP20"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "decimal": 4,
       "symbol": "MATIC",
       "networks": [
-        "GF","POLYGON"
+        "GF","MATIC"
       ]
     },
     {
