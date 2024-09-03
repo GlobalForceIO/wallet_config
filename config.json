@@ -25,6 +25,14 @@
       ]
     },
     {
+      "contract": "gf.bnb",
+      "decimal": 4,
+      "symbol": "BNB",
+      "networks": [
+        "GF","BEP20"
+      ]
+    },
+    {
       "contract": "gf.matic",
       "decimal": 4,
       "symbol": "MATIC",
