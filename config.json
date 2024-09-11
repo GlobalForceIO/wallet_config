@@ -25,6 +25,14 @@
       ]
     },
     {
+      "contract": "gf.eth",
+      "decimal": 6,
+      "symbol": "ETH",
+      "networks": [
+        "GF","ETH"
+      ]
+    },
+    {
       "contract": "gf.bnb",
       "decimal": 4,
       "symbol": "BNB",
