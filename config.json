@@ -41,11 +41,11 @@
       ]
     },
     {
-      "contract": "gf.matic",
+      "contract": "gf.pol",
       "decimal": 4,
-      "symbol": "MATIC",
+      "symbol": "POL",
       "networks": [
-        "GF","MATIC"
+        "GF","POL"
       ]
     }
   ],
