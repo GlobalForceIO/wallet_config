@@ -10,7 +10,7 @@
     },
     {
       "contract": "gf.btc",
-      "decimal": 6,
+      "decimal": 8,
       "symbol": "BTC",
       "networks": [
         "GF","BTC"
@@ -26,7 +26,7 @@
     },
     {
       "contract": "gf.eth",
-      "decimal": 6,
+      "decimal": 8,
       "symbol": "ETH",
       "networks": [
         "GF","ETH"
@@ -34,7 +34,7 @@
     },
     {
       "contract": "gf.bnb",
-      "decimal": 4,
+      "decimal": 8,
       "symbol": "BNB",
       "networks": [
         "GF","BEP20"
@@ -42,7 +42,7 @@
     },
     {
       "contract": "gf.pol",
-      "decimal": 4,
+      "decimal": 8,
       "symbol": "POL",
       "networks": [
         "GF","POL"
