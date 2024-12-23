@@ -47,6 +47,22 @@
       "networks": [
         "GF","POL"
       ]
+    },
+    {
+      "contract": "gf.avax",
+      "decimal": 8,
+      "symbol": "AVAX",
+      "networks": [
+        "GF","AVAX"
+      ]
+    },
+    {
+      "contract": "gf.celo",
+      "decimal": 8,
+      "symbol": "CELO",
+      "networks": [
+        "GF","CELO"
+      ]
     }
   ],
   "contracts": [
