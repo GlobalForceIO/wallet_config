@@ -63,6 +63,14 @@
       "networks": [
         "GF","CELO"
       ]
+    },
+    {
+      "contract": "gf.xrp",
+      "decimal": 6,
+      "symbol": "XRP",
+      "networks": [
+        "GF","XRP"
+      ]
     }
   ],
   "contracts": [
