@@ -65,11 +65,19 @@
       ]
     },
     {
-      "contract": "gf.xrp",
+      "contract": "gf.usdt",
       "decimal": 6,
-      "symbol": "XRP",
+      "symbol": "USDT",
       "networks": [
-        "GF","XRP"
+        "GF","ERC20"
+      ]
+    },
+    {
+      "contract": "gf.usdc",
+      "decimal": 6,
+      "symbol": "USDC",
+      "networks": [
+        "GF","ERC20"
       ]
     }
   ],
