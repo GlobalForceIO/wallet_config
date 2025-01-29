@@ -65,6 +65,14 @@
       ]
     },
     {
+      "contract": "gf.xrp",
+      "decimal": 6,
+      "symbol": "XRP",
+      "networks": [
+        "GF","XRP"
+      ]
+    },
+    {
       "contract": "gf.usdt",
       "decimal": 6,
       "symbol": "USDT",
